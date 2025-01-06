@@ -1,0 +1,15 @@
+{
+    "name": "my-node-server",
+    "version": "1.0.0",
+    "description": "A basic informational site with Node.js",
+    "main": "server.js",
+    "scripts": {
+      "start": "nodemon server.js"
+    },
+    "author": "Mablandah Liiffeey",
+    "license": "ISC",
+    "devDependencies": {
+      "nodemon": "^3.0.0"
+    }
+  }
+  
